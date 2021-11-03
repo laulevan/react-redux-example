@@ -25,7 +25,7 @@
     "redux": "^3.7.2",
     "redux-persist": "^4.9.1",
     "redux-thunk": "^2.2.0",
-    "validator": "^8.1.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "symlinkdev": "cd node_modules && ln -nsf ../src/app ",
